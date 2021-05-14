@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T14:08:33.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="DwlWxOpplr2Sr4F0Ht1i" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T14:09:56.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="gOJwz9UH9hlzUiGiDMXw" version="14.6.13" type="github">
   <diagram id="eyJVZdjyhdHfz1LoKSHr" name="Page-1">
     <mxGraphModel dx="853" dy="1729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="XQcb1Nmk4VsFIyZfBtN4-1" value="- valorTotal(): double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0Aj9wf7Zu_Hb_rzBGJ-w-5" vertex="1">
           <mxGeometry y="112" width="267" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0Aj9wf7Zu_Hb_rzBGJ-w-9" value="q" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="0Aj9wf7Zu_Hb_rzBGJ-w-9" value="Guiado" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="681" y="634" width="241" height="138" as="geometry">
             <mxRectangle x="638" y="761" width="75" height="26" as="alternateBounds" />
           </mxGeometry>
