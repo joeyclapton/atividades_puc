@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T01:27:11.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="5oVgEjpxbNBxIArSp1lE" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T01:31:46.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="KpN94fkoCOrkBmzs6JnS" version="14.7.3" type="github">
   <diagram id="S391DlHNEnrHNwocjpw7" name="Page-1">
     <mxGraphModel dx="1476" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zmuwoWMwnxqD31HKkfrA-52" value="AparelhoCobranca" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="505" y="40" width="390" height="108" as="geometry" />
+          <mxGeometry x="505" y="40" width="390" height="134" as="geometry" />
         </mxCell>
         <mxCell id="zmuwoWMwnxqD31HKkfrA-53" value="- registroPassageiros: Hashtable&lt;Passageiros&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zmuwoWMwnxqD31HKkfrA-52">
           <mxGeometry y="26" width="390" height="22" as="geometry" />
@@ -100,13 +100,16 @@
         <mxCell id="zmuwoWMwnxqD31HKkfrA-55" value="+ extratoDiario(LocalDateTime dia): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zmuwoWMwnxqD31HKkfrA-52">
           <mxGeometry y="56" width="390" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zmuwoWMwnxqD31HKkfrA-56" value="+ addPassageiro(LocalDateTime data, Passageiro passageiro): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zmuwoWMwnxqD31HKkfrA-52">
+        <mxCell id="zmuwoWMwnxqD31HKkfrA-155" value="+ addPassageiro(LocalDateTime data, Passageiro passageiro): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zmuwoWMwnxqD31HKkfrA-52">
           <mxGeometry y="82" width="390" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zmuwoWMwnxqD31HKkfrA-56" value="+AdicionarSaldoCartão(Registro registro): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zmuwoWMwnxqD31HKkfrA-52">
+          <mxGeometry y="108" width="390" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zmuwoWMwnxqD31HKkfrA-57" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zmuwoWMwnxqD31HKkfrA-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1045" y="610" as="sourcePoint" />
-            <mxPoint x="675" y="150" as="targetPoint" />
+            <mxPoint x="675" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zmuwoWMwnxqD31HKkfrA-128" value="Viagem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
