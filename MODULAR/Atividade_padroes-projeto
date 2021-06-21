@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T16:47:58.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36 Edg/91.0.864.53" etag="k4M6irFdpYkkAGxNPx6O" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T16:48:46.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36 Edg/91.0.864.53" etag="fFU-sEvhN-Drw9IV19rb" version="14.7.3" type="github">
   <diagram id="2nzr9lkGNq-AvcYWREmc" name="Page-1">
     <mxGraphModel dx="2350" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -58,6 +58,9 @@
         </mxCell>
         <mxCell id="dX_51gT4KR8zCT0xMPFo-29" value="+ gerarRelatorio(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dX_51gT4KR8zCT0xMPFo-26">
           <mxGeometry y="60" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dX_51gT4KR8zCT0xMPFo-32" value="Flyweight Pattern" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="565" y="90" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
